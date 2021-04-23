@@ -1,6 +1,6 @@
 # 0x00. Vagrant
 
-## Resources::shipit::
+## Resources:shipit:
 Read or watch:
 * [Zero day](https://intranet.hbtn.io/rltoken/NcuS4-7zF9-edjbo157uQQ)
 * [Virtual machine](https://intranet.hbtn.io/rltoken/v2RbeSrU14w3KTwbGYH3Fw)
