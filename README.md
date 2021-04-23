@@ -1,6 +1,6 @@
 # 0x00. Vagrant
 
-## Resources:eyes:
+## Resources :eyes:
 Read or watch:
 * [Zero day](https://intranet.hbtn.io/rltoken/NcuS4-7zF9-edjbo157uQQ)
 * [Virtual machine](https://intranet.hbtn.io/rltoken/v2RbeSrU14w3KTwbGYH3Fw)
@@ -10,7 +10,7 @@ Read or watch:
 * [How to write a Git commit message](https://intranet.hbtn.io/rltoken/GVFbHgJXNQ4aliCLV6Lhxw)
 
 ---
-## Learning Objectives:technologist:
+## Learning Objectives :technologist:
 What you should learn from this project:
 
 * What is a zero-day
@@ -35,5 +35,5 @@ What you should learn from this project:
 ---
 ---
 
-## Author
+## Author :writing_hand:
 * **Carlos Usuga Martinez** - [klich1984](https://github.com/klich1984)
