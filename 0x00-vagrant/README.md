@@ -33,7 +33,15 @@ What you should learn from this project:
 * How to push code
 
 ---
+
+### [0. Create and setup your Git and GitHub account](./README.md)
+* Git is installed on the iMacs provided by Holberton, but if you’re using another computer, you might have to install it yourself.
+
+
+### [1. Hello Ubuntu](./0-hello_ubuntu)
+* Inside the holbertonschool-zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory. 
+
 ---
 
 ## Author :writing_hand:
-* **Carlos Usuga Martinez** - [klich1984](https://github.com/klich1984)
+* **Carlos Usuga Martinez** - [klich1984](https://github.com/klich1984) :alien:
